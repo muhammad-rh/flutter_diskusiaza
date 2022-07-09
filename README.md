@@ -1,16 +1,36 @@
-# diskusiaza_mobile
+# Flutter-Diskusiaza
 
-A new Flutter project.
+An FGD-themed mobile application where there are many users interacting in it. Using RESTful api sourced from https://capstone-go.dikatest.xyz/. This app is still under development.
 
-## Getting Started
+## Feature
 
-This project is a starting point for a Flutter application.
+This application offers an account feature, where to be able to use this application you must register first. Users can post, update, and delete the threads they create. In addition, users can also like/unlike every thread they encounter.
 
-A few resources to get you started if this is your first Flutter project:
+## Package used in
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- google_fonts: ^3.0.1
+- intl: ^0.17.0
+- dio: ^4.0.6
+- provider: ^6.0.3
+- fluttertoast: ^8.0.9
+- shared_preferences: ^2.0.15
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Some app screenshots
+
+### LoginScreen
+![gambar](./screenshots/pict1.jpg)
+
+### RegisterScreen
+![gambar](./screenshots/pict2.jpg)
+
+### HomeScreen
+![gambar](./screenshots/pict3.jpg)
+
+### PostThreadModals
+![gambar](./screenshots/pict4.jpg)
+
+### ProfileScreen
+![gambar](./screenshots/pict5.jpg)
+
+### ProfileDetailScreen
+![gambar](./screenshots/pict6.jpg)
