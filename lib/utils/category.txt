@@ -1,0 +1,24 @@
+{
+    "id": 1,
+    "kategori_name": "Cerita Lucu"
+},
+{
+    "id": 2,
+    "kategori_name": "Tips & Trick"
+},
+{
+    "id": 3,
+    "kategori_name": "Kisah-kisah Horror"
+},
+{
+    "id": 4,
+    "kategori_name": "Pengembangan Diri"
+},
+{
+    "id": 5,
+    "kategori_name": "Kisah Hidup yang tak banyak diketahui"
+},
+{
+    "id": 6,
+    "kategori_name": "Informasi Olahraga"
+}
