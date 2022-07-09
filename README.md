@@ -2,6 +2,10 @@
 
 An FGD-themed mobile application where there are many users interacting in it. Using RESTful api sourced from https://capstone-go.dikatest.xyz/. This app is still under development.
 
+## Link to download apk
+
+https://bit.ly/diskuziaza
+
 ## Feature
 
 This application offers an account feature, where to be able to use this application you must register first. Users can post, update, and delete the threads they create. In addition, users can also like/unlike every thread they encounter.
